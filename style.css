@@ -5,6 +5,9 @@
     padding: 0;
     box-sizing: 0;
 }
+h1 {
+    color: white;
+}
 body {
     background-image: url(imagens/wallpaper003.jpg);
 }
