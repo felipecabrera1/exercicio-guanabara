@@ -9,7 +9,7 @@ h1 {
     color: white;
 }
 body {
-    background-image: url(imagens/wallpaper003.jpg);
+    background-image: url(/imagens/wallpaper003.jpg);
 }
 
 div.quadrado {
@@ -29,5 +29,5 @@ div#q2 {
 }
 
 div#q3 {
-    background-image: url(imagens/pattern001.png);
+    background-image: url(/imagens/pattern001.png);
 }
