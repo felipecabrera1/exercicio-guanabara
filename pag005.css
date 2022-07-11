@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body {
+    height: 98vh;
+    background-image: url(imagens/wallpaper005.jpg);
+ background-position: top center;
+ background-repeat: no-repeat;
+
+}
