@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+div#aviao {
+    border: 2px solid black;
+    
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px auto ;
+    background-image: url(imagens/wallpaper003.jpg);
+
+}
+div.q1 {
+    background-position: left top;
+    
+    
+}
+div.q2 {
+    
+    
+    background-position: left  center;
+    }
+div.q3 {
+    background-position: right bottom;
+
+}
+div.q4 {
+    background-position: top left;
+}
